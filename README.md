@@ -1,4 +1,24 @@
-# nbdev template
+# nbdev_playground
+> Learning about nbdev.
 
-Use this template to more easily create your nbdev project.
+
+just following the awesine tutorial!
+
+## Install
+
+`pip install nbdev_playground`
+
+## How to use
+
+This is how you can use it!
+
+```python
+say_hello("kamran")
+```
+
+
+
+
+    'Hello kamran!'
+
 
